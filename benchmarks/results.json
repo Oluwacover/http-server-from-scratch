@@ -1,0 +1,14 @@
+{
+  "concurrency": 10,
+  "total_requests": 1000,
+  "successful_requests": 1000,
+  "total_duration_sec": 0.496,
+  "requests_per_sec": 2015.98,
+  "latency_mean_ms": 4.79,
+  "latency_p50_ms": 4.67,
+  "latency_p90_ms": 5.88,
+  "latency_p95_ms": 6.27,
+  "latency_p99_ms": 7.66,
+  "latency_min_ms": 0.97,
+  "latency_max_ms": 16.18
+}
